@@ -21,7 +21,7 @@ Now clone the project either, *git clone channel-type*, and copy the #*URL*# of 
 
 When you are done cloning the project from the specified [github](https://github.com/jamesonyemi/phone-book-app.git) repository, the run the following commands:
 
- - use the command line of choice to nagigate to the root directory of the project like so: *[cd path-to-project-directory]()*
+ - use the command line of choice to navigate to the root directory of the project like so: *[cd path-to-project-directory]()*
  - open the project on any *text-editor* of choice,
  and make a copy of the *[.env.example]()*
  and rename the copy you should made to *[.env]()*
