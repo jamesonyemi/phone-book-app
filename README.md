@@ -27,7 +27,7 @@ When you are done cloning the project from the specified [github](https://github
  and rename the copy you should made to *[.env]()*
  - Note, this renamed copy must be in the same location/directory as the *[.env.example]* -- the original file copied from.
 
-### RUNNINGG THE PROJECT
+### RUNNING THE PROJECT
 
 - composer install
 - npm install
