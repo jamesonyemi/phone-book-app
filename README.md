@@ -16,7 +16,7 @@ After you have installed PHP and Composer, you may create a new Laravel project 
 Now clone the project either, *git clone* <reference-type>, and copy the #*URL*# of the associated channels below:
 - https [https](https://github.com/jamesonyemi/phone-book-app.git)
 - ssh [ssh](git@github.com:jamesonyemi/phone-book-app.git)
-- gitcli [git-cli](gh repo clone jamesonyemi/phone-book-app)
+- git cli (gh repo clone jamesonyemi/phone-book-app)
 
 
 When you are done cloning the project from the specified [github](https://github.com/jamesonyemi/phone-book-app.git) repository, the run the following commands:
