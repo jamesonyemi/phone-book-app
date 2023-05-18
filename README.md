@@ -13,10 +13,10 @@ If you don't have PHP and and composer in your machine, you should ensure that y
 
 After you have installed PHP and Composer, you may create a new Laravel project via the Composer *[create-project]()* command:
 
-Now clone the project either, *git clone* <reference-type>, and copy the #*URL*# of the associated channels below:
-- https [https](https://github.com/jamesonyemi/phone-book-app.git)
-- ssh [ssh](git@github.com:jamesonyemi/phone-book-app.git)
-- git cli (gh repo clone jamesonyemi/phone-book-app)
+Now clone the project either, *git clone channel-type*, and copy the #*URL*# of the associated channels below:
+- https :=> git clone https://github.com/jamesonyemi/phone-book-app.git
+- ssh :=>  git clone git@github.com:jamesonyemi/phone-book-app.git
+- git cli ::=> gh repo clone jamesonyemi/phone-book-app
 
 
 When you are done cloning the project from the specified [github](https://github.com/jamesonyemi/phone-book-app.git) repository, the run the following commands:
